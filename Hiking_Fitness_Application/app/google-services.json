@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "834089772600",
+    "project_id": "mobile-programming-2022-367219",
+    "storage_bucket": "mobile-programming-2022-367219.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834089772600:android:41491d69279299bf4f28cd",
+        "android_client_info": {
+          "package_name": "com.example.hikingfitnessapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834089772600-2ukb6ndlv2vggh3ldm6j8rlmdf0272ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5UE-NJkkqwmProzl6yzFe21wEO60P2YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834089772600-2ukb6ndlv2vggh3ldm6j8rlmdf0272ha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
